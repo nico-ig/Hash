@@ -1,0 +1,11 @@
+DUVIDAS
+
+FAZER
+  inserir repetido em t2 dps de remover em t1
+  inserir repetido em t1 dps de remover em t2
+
+  testar dinf
+    valgrind
+    testes
+
+  relatorio
